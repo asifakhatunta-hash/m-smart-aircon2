@@ -12,7 +12,8 @@
 
   "dependencies": {
     "firebase": "^12.13.0",
-    "lucide-react": "^0.468.0"
+    "lucide-react": "^0.468.0",
+    "tailwind-merge": "^2.5.5"
   },
 
   "devDependencies": {
